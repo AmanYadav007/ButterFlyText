@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ButterFlyText/static/css/main.8232cb74.css",
-    "main.js": "/ButterFlyText/static/js/main.7a80b84c.js",
-    "index.html": "/ButterFlyText/index.html",
-    "main.8232cb74.css.map": "/ButterFlyText/static/css/main.8232cb74.css.map",
-    "main.7a80b84c.js.map": "/ButterFlyText/static/js/main.7a80b84c.js.map"
+    "main.css": "/text-util-app/static/css/main.8232cb74.css",
+    "main.js": "/text-util-app/static/js/main.7a80b84c.js",
+    "index.html": "/text-util-app/index.html",
+    "main.8232cb74.css.map": "/text-util-app/static/css/main.8232cb74.css.map",
+    "main.7a80b84c.js.map": "/text-util-app/static/js/main.7a80b84c.js.map"
   },
   "entrypoints": [
     "static/css/main.8232cb74.css",
